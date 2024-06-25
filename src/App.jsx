@@ -11,6 +11,7 @@ function App() {
       </header>
       <main>
         <h2>Time to get ANd chill  started!</h2>
+        <h2>Hey hey hey </h2>
       </main>
     </div>
   );
